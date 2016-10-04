@@ -1,2 +1,2 @@
-"Git c'est cool" 
-"Git c'est cool" 
+Git c'est cool !
+J'ai appris à utiliser GiHub et ses commandes.
